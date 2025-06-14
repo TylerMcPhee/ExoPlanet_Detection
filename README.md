@@ -12,7 +12,6 @@ This project implements a complete deep learning pipeline to detect exoplanets u
 - [Model Architecture](#model-architecture)  
 - [Training and Evaluation](#training-and-evaluation)  
 - [Results](#results)  
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
